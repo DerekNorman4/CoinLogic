@@ -28,6 +28,10 @@ body {
   font-weight: 300;
 }
 
+.background-image-size {
+  background-size: contain;
+}
+
 ::-moz-selection {
   background: #000000;
   color: #ffffff;
